@@ -1,4 +1,4 @@
-## Lucas Haendel, Full Stack Developer 👨‍💻🚀
+## 💻👨‍💻Lucas Haendel, Full Stack Developer 👨‍💻💻
 
 - 👋 Hi, I’m @lucashaendel
 - 🚀 I'm Full Stack Developer
