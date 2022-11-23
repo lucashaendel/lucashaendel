@@ -1,10 +1,11 @@
 ## Lucas Haendel, Full Stack Developer 👨‍💻🚀
 
 - 👋 Hi, I’m @lucashaendel
+- 🚀 I'm Full Stack Developer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashaendel/)
 
 <!---
 lucashaendel/lucashaendel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=VS-Code&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/carmelis)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashaendel/)
 
 ![Lucas Haendel GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical)
 
