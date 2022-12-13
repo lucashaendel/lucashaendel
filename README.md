@@ -1,11 +1,13 @@
-# 👨‍💻 Lucas Haendel 👨‍💻
+<h1 align="center">🧑‍💻 Lucas Haendel 🧑‍💻</h1>
 
-- 👋 Hi, I’m @lucashaendel
-- 🚀 I'm Full Stack Developer
+<h3 align="center">🚀 I'm Full Stack Developer</h3>
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... -->
 - 📫 How to reach me ...
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashaendel/)
+<a href="https://lucashaendel.vercel.app">
+         <img alt="Portafolio" title="Mira mi portafolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
+       
 
 <!---
 lucashaendel/lucashaendel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +19,7 @@ You can click the Preview link to take a look at your changes.
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/carmelis)
 
 
-![Lucas Haendel GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashaendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Lucas Haendel GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashaendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 ```javascript
 const Carmela = {
