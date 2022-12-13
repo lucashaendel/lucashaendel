@@ -1,6 +1,6 @@
 <h1 align="center">🧑‍💻 Lucas Haendel 🧑‍💻</h1>
 
-<h3 align="center">🚀 I'm Full Stack Developer</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
 <a href="[https://lucashaendel.vercel.app](https://www.linkedin.com/in/lucashaendel/)">
@@ -46,10 +46,11 @@
 <img align="left" alt="VisualStudio" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Npm" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Postman" width="40px" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="Figma" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Photoshop" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+<img align="left" alt="Figma" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Canva" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="Trello" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<img align="left" alt="Vercel" height="30px" style="padding-right:10px" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=Vercel&logoColor=white" />
+<img align="left" alt="Vercel" height="35px" style="padding-right:10px" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=Vercel&logoColor=white" />
 <br/>
 
 #
