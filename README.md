@@ -2,11 +2,8 @@
 
 <h3 align="center">🚀 I'm Full Stack Developer</h3>
 
-- 📫 How to reach me ...
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashaendel/)
-
-
-<p align="left">
       <a href="https://lucashaendel.vercel.app">
          <img alt="Portafolio" title="Mi Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
        <a href="https://lucashaendel.vercel.app/cv/Lucas%20Haendel.pdf">
