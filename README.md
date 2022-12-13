@@ -9,9 +9,9 @@
 <p align="left">
       <a href="https://lucashaendel.vercel.app">
          <img alt="Portafolio" title="Mi Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
-       <a href="https://lucashaendel.vercel.app/cv">
-         <img alt="CV" title="Mira mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
-<!--         <a href="https://github.com/RafaMojica?tab=repositories">
+       <a href="https://lucashaendel.vercel.app/cv/Lucas%20Haendel.pdf">
+         <img alt="CV" title=" mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
+<!--         <a href="https://github.com/lucashaendel?tab=repositories">
          <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Mis%20Repositorios-orange?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
    </p>
        
