@@ -1,12 +1,19 @@
 <h1 align="center">🧑‍💻 Lucas Haendel 🧑‍💻</h1>
 
 <h3 align="center">🚀 I'm Full Stack Developer</h3>
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... -->
+
 - 📫 How to reach me ...
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashaendel/)
-<a href="https://lucashaendel.vercel.app">
-         <img alt="Portafolio" title="Mira mi portafolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
+
+
+<p align="left">
+      <a href="https://lucashaendel.vercel.app">
+         <img alt="Portafolio" title="Mi Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
+       <a href="https://lucashaendel.vercel.app/cv">
+         <img alt="CV" title="Mira mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
+<!--         <a href="https://github.com/RafaMojica?tab=repositories">
+         <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Mis%20Repositorios-orange?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
+   </p>
        
 
 <!---
@@ -19,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/carmelis)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashaendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Lucas Haendel GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashaendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Lucas Haendel GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical)
 <!-- 
 ```javascript
 const Carmela = {
