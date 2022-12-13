@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/carmelis)
 
 
-![Lucas Haendel GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashaendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashaendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Lucas Haendel GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical)
 <!-- 
 ```javascript
 const Carmela = {
