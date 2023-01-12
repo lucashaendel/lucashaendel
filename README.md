@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 Full Stack Developer</h3>
 
-<p align="center">
+<div align="center">
 <a href="[https://lucashaendel.vercel.app](https://www.linkedin.com/in/lucashaendel/)">
          <img alt="Portafolio" title="Mi Portfolio" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://lucashaendel.vercel.app">
@@ -11,17 +11,9 @@
          <img alt="CV" title=" mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
         <a href="https://github.com/lucashaendel?tab=repositories">
          <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Mis%20Repositorios-orange?style=for-the-badge&logoColor=white&logo=repo"/></a>
-   </p>
+   </div>
 <br/>
 
-#
-
-<br/>
-<div>
- <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucashaendel&layout=compact" /> 
- <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical" />
-</div>
-<br/>
 
 
 
@@ -66,3 +58,15 @@
 <br/>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lucashaendel)
+
+
+#
+
+<br/>
+<div align="center">
+
+<!--  <img align="center" alt="Stats" width="400px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucashaendel&layout=compact" />  -->
+
+ <img align="center" alt="Stats" width="400px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical" />
+</div>
+<br/>
