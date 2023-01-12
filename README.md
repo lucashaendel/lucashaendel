@@ -18,8 +18,8 @@
 
 <br/>
 <div>
- <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashaendel&layout=compact" /> 
- <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical" />
+ <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucashaendel&layout=compact" /> 
+ <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical" />
 </div>
 <br/>
 
