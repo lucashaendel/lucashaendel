@@ -7,7 +7,7 @@
          <img alt="Portafolio" title="Mi Portfolio" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://lucashaendel.vercel.app">
          <img alt="Portafolio" title="Mi Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-red?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
-       <a href="https://lucashaendel.vercel.app/cv/Lucas%20Haendel.pdf">
+       <a href="https://lucashaendel.vercel.app/cv/Lucas-Haendel.pdf">
          <img alt="CV" title=" mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
         <a href="https://github.com/lucashaendel?tab=repositories">
          <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Mis%20Repositorios-orange?style=for-the-badge&logoColor=white&logo=repo"/></a>
