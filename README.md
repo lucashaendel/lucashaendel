@@ -65,7 +65,7 @@
 <br/>
 <div align="center">
 
-<!--  <img align="center" alt="Stats" width="400px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucashaendel&layout=compact" />  -->
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=lucashaendel&show_icons=true&locale=en&layout=compact" alt="lucas haendel" />
 
  <img align="center" alt="Stats" width="400px" style="padding-right:10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucashaendel&show_icons=true&theme=radical" />
 </div>
