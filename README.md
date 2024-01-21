@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer</h3>
 
 <div align="center">
-<a href="[https://lucashaendel.vercel.app](https://www.linkedin.com/in/lucashaendel/)">
+<a href="https://www.linkedin.com/in/lucashaendel/">
          <img alt="Portafolio" title="Mi Portfolio" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://lucashaendel.vercel.app">
          <img alt="Portafolio" title="Mi Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-red?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
